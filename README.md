@@ -19,6 +19,8 @@
 + Marco Loncar's group is shutdown.
 
 ### MIT
+#### Physics
++ Pablo Jarillo-herrero's group: stop every experiment except ungoing ones for 8 weeks; stop public fab lab.
 
 ## New York
 ### Columbia
